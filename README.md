@@ -14,3 +14,6 @@
 
 ![GitHub Logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
 Format:) ![AltText]((url)
+
+*czesc, witaj w gicie jeszcze raz*
+
